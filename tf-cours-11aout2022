@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T13:42:54.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ra_ziKafgydkrtsdRnPJ" version="20.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-11T13:43:57.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="I9sl2TCAFdVYXTCCkxtC" version="20.2.3" type="github" pages="6">
   <diagram id="EET1QaeA3jklaYknNp7Q" name="Exercice 4">
     <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1071,7 +1071,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nqnIUBFa4dVazaIU_fZQ" name="Exercice1-V2(Schema Relationnel)">
-    <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1235,7 +1235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lqNQQ6SIsjOBmd-3_KOI-137" value="Clients" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="419" width="219" height="156" as="geometry" />
+          <mxGeometry x="69" y="416" width="219" height="156" as="geometry" />
         </mxCell>
         <mxCell id="lqNQQ6SIsjOBmd-3_KOI-138" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;" vertex="1" parent="lqNQQ6SIsjOBmd-3_KOI-137">
           <mxGeometry y="30" width="219" height="42" as="geometry" />
@@ -1414,6 +1414,14 @@
         <mxCell id="lqNQQ6SIsjOBmd-3_KOI-193" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="451" y="141" width="185" height="10" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5GpBpizeUYpuXsuoYQIJ" name="Page-6">
+    <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
