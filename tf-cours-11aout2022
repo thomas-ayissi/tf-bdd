@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T09:49:16.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Ovd8CwQBkX47rz_sBkct" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-11T09:56:07.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QhO7AeKizK4BBJQkutZK" version="20.2.3" type="github" pages="3">
   <diagram id="EET1QaeA3jklaYknNp7Q" name="Exercice 4">
     <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -840,6 +840,12 @@
             <mxPoint x="776.4000244140625" y="182.99996948242188" as="targetPoint" />
             <mxPoint x="829.5" y="251" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5ThNG2o038433sWgiJsE-131" value="ordre d&#39;arrivée" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="262" y="248" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ThNG2o038433sWgiJsE-132" value="cote" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="262" y="300" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
