@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T09:36:13.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ttLCsPlxyw7w2mDSh8RP" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-11T09:37:24.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="620CNMRFBeHh-D2e9gYb" version="20.2.3" type="github" pages="3">
   <diagram id="EET1QaeA3jklaYknNp7Q" name="Exercice 4">
     <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -703,7 +703,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ThNG2o038433sWgiJsE-86" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="456" width="87" height="40" as="geometry" />
+          <mxGeometry x="467" y="456" width="95" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5ThNG2o038433sWgiJsE-88" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="477" y="71" width="87" height="40" as="geometry" />
@@ -820,8 +820,20 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ThNG2o038433sWgiJsE-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ThNG2o038433sWgiJsE-72" target="5ThNG2o038433sWgiJsE-86">
+        <mxCell id="5ThNG2o038433sWgiJsE-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="5ThNG2o038433sWgiJsE-120" target="5ThNG2o038433sWgiJsE-86">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ThNG2o038433sWgiJsE-119" value="Comporte des" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467" y="466" width="93" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5ThNG2o038433sWgiJsE-120" value="1-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="440" width="35" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5ThNG2o038433sWgiJsE-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="5ThNG2o038433sWgiJsE-72" target="5ThNG2o038433sWgiJsE-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="449" as="sourcePoint" />
+            <mxPoint x="467" y="479" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
