@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T14:09:29.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Xvn0e4rmS7oQJGFCCc3p" version="20.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-11T14:11:09.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OO6XytR3frEGaQgnUdvm" version="20.2.3" type="github" pages="6">
   <diagram id="EET1QaeA3jklaYknNp7Q" name="Exercice 4">
     <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1435,7 +1435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5GpBpizeUYpuXsuoYQIJ" name="Exercice3-V2(Schema Relationnel)">
-    <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,7 +1612,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NxcfqdIM9d49dquRqQ23-42" value="nomAuteur" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=1;" vertex="1" parent="NxcfqdIM9d49dquRqQ23-40">
+        <mxCell id="NxcfqdIM9d49dquRqQ23-42" value="prime" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=1;" vertex="1" parent="NxcfqdIM9d49dquRqQ23-40">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1625,7 +1625,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NxcfqdIM9d49dquRqQ23-45" value="dateAchat" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=1;" vertex="1" parent="NxcfqdIM9d49dquRqQ23-43">
+        <mxCell id="NxcfqdIM9d49dquRqQ23-45" value="prixVente" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=1;" vertex="1" parent="NxcfqdIM9d49dquRqQ23-43">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
